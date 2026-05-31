@@ -1,2 +1,2 @@
 # Scripts
-![Vexra Hub](./logo.png)
+![Prism Project](./new_logo.png)
