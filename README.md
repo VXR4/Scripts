@@ -1,5 +1,5 @@
-# Scripts
-![Saphira Hub](./final_logo.png)
+# Game Supported:
+-- MM2 (dev)
 
 # Use
 ```lua
